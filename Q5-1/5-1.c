@@ -1,4 +1,4 @@
-#include <stdio.h> 
+ï»¿#include <stdio.h> 
 
 int main(void) {
 
@@ -13,7 +13,7 @@ int main(void) {
 	}
 
 
-	printf("ÇÕ: %d °ö: %d\n", sum, mult);
+	printf("í•©: %d ê³±: %d\n", sum, mult);
 
 
 	return 0;
